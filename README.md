@@ -1,1 +1,4 @@
 # Analyst_Portfolio_Projects
+Hi, my name is **Sarthak Lakhera** and Welcome to my Business analysis portfolio, where I showcase a collection of projects demonstrating my expertise in transforming data into actionable insights. My work spans various sectors, including finance, marketing, and retail, focusing on optimizing processes, improving customer experiences, and driving strategic decision-making. Each project highlights my skills in data analysis, visualization, and reporting, utilizing tools such as **Power BI, advanced Excel, and SQL**. I aim to empower organizations to achieve their business goals and enhance their overall performance by combining analytical techniques and understanding of *Descriptive, Diagnostic, Predictive and prescriptive analysis*.
+
+You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/sarthak-lakhera/) 
